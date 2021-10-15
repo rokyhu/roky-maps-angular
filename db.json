@@ -17,12 +17,6 @@
       "text": "Computer Shopping",
       "day": "May 7th at 12:30pm",
       "reminder": false
-    },
-    {
-      "id": 4,
-      "text": "Yeah",
-      "day": "May 8th at 15:30pm",
-      "reminder": false
     }
   ]
 }
